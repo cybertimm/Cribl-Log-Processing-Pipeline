@@ -219,26 +219,6 @@ Processed events are enriched before reaching Splunk, allowing analysts to searc
 * Add threshold-based alerting
 
 
-
-## 📁 Repository Structure
-
-```text
-Cribl-Log-Processing-Pipeline/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── source_configuration.png
-│   ├── route_configuration.png
-│   ├── pipeline_configuration.png
-│   ├── cribl_live_data.png
-│   └── splunk_validation.png
-│
-└── documentation/
-    └── project_notes.md
-```
-
-
 ### Key Technologies
 
 * Cribl Stream
